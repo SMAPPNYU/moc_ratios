@@ -1,0 +1,534 @@
+bioguide,nominate_dim1,name,birth_date,party,twitter,screen_name
+R000575,0.358,Mike Rogers,1958-07-16,Republican,RepMikeRogersAL,repmikerogersal
+S001185,-0.393,Terri Sewell,1965-01-01,Democratic,RepTerriSewell,repterrisewell
+B001274,0.651,Mo Brooks,1954-04-29,Republican,RepMoBrooks,repmobrooks
+P000609,0.702,Gary J. Palmer,1954-05-14,Republican,USRepGaryPalmer,usrepgarypalmer
+C001054,0.587,Jerry L. Carl,1958-06-17,Republican,RepJerryCarl,repjerrycarl
+M001212,0.676,Barry Moore,1966-09-26,Republican,RepBarryMoore,repbarrymoore
+A000055,0.375,Robert B. Aderholt,1965-07-22,Republican,Robert_Aderholt,robert_aderholt
+Y000033,0.284,Don Young,1933-06-09,Republican,RepDonYoung,repdonyoung
+G000551,-0.598,Raúl M. Grijalva,1948-02-19,Democratic,RepraulGrijalva,repraulgrijalva
+K000368,-0.166,Ann Kirkpatrick,1950-03-24,Democratic,RepKirkpatrick,repkirkpatrick
+G000565,0.685,Paul A. Gosar,1958-11-22,Republican,RepGosar,repgosar
+S001183,0.581,David Schweikert,1962-03-03,Republican,RepDavid,repdavid
+G000574,-0.451,Ruben Gallego,1979-11-20,Democratic,RepRubenGallego,reprubengallego
+B001302,0.883,Andy Biggs,1958-11-07,Republican,RepAndyBiggsAZ,repandybiggsaz
+O000171,-0.193,Tom O’Halleran,1946-01-24,Democratic,repohalleran,repohalleran
+L000589,0.6,Debbie Lesko,1958-11-14,Republican,RepDLesko,repdlesko
+S001211,-0.319,Greg Stanton,1970-03-08,Democratic,RepGregStanton,repgregstanton
+C001087,0.426,"Eric A. ""Rick"" Crawford",1966-01-22,Republican,RepRickCrawford,reprickcrawford
+W000809,0.353,Steve Womack,1957-02-18,Republican,Rep_SteveWomack,rep_stevewomack
+H001072,0.447,J. Hill,1956-12-05,Republican,RepFrenchHill,repfrenchhill
+W000821,0.552,Bruce Westerman,1967-11-18,Republican,RepWesterman,repwesterman
+P000197,-0.49,Nancy Pelosi,1940-03-26,Democratic,SpeakerPelosi,speakerpelosi
+S001150,-0.35,Adam B. Schiff,1960-06-22,Democratic,RepAdamSchiff,repadamschiff
+I000056,0.501,Darrell Issa,1953-11-01,Republican,,
+N000181,0.45,Devin Nunes,1973-10-01,Republican,RepDevinNunes,repdevinnunes
+S001156,-0.508,Linda T. Sánchez,1969-01-28,Democratic,RepLindaSanchez,replindasanchez
+C001059,-0.192,Jim Costa,1952-04-13,Democratic,RepJimCosta,repjimcosta
+M001163,-0.434,Doris O. Matsui,1944-09-25,Democratic,DorisMatsui,dorismatsui
+M001166,-0.263,Jerry McNerney,1951-06-18,Democratic,RepMcNerney,repmcnerney
+M001165,0.455,Kevin McCarthy,1965-01-26,Republican,GOPLeader,gopleader
+S001175,-0.38,Jackie Speier,1950-05-14,Democratic,RepSpeier,repspeier
+M001177,0.714,Tom McClintock,1956-07-10,Republican,RepMcClintock,repmcclintock
+C001080,-0.488,Judy Chu,1953-07-07,Democratic,RepJudyChu,repjudychu
+G000559,-0.309,John Garamendi,1945-01-24,Democratic,RepGaramendi,repgaramendi
+B001270,-0.585,Karen Bass,1953-10-03,Democratic,RepKarenBass,repkarenbass
+L000578,0.536,Doug LaMalfa,1960-07-02,Republican,RepLaMalfa,replamalfa
+H001068,-0.427,Jared Huffman,1964-02-18,Democratic,RepHuffman,rephuffman
+B001287,-0.234,Ami Bera,1965-03-02,Democratic,RepBera,repbera
+S001193,-0.365,Eric Swalwell,1980-11-16,Democratic,RepSwalwell,repswalwell
+V000129,0.256,David G. Valadao,1977-04-14,Republican,,
+B001285,-0.287,Julia Brownley,1952-08-28,Democratic,RepBrownley,repbrownley
+C001097,-0.384,Tony Cárdenas,1963-03-31,Democratic,RepCardenas,repcardenas
+R000599,-0.244,Raul Ruiz,1972-08-25,Democratic,RepRaulRuizMD,repraulruizmd
+T000472,-0.464,Mark Takano,1960-12-10,Democratic,RepMarkTakano,repmarktakano
+L000579,-0.451,Alan S. Lowenthal,1941-03-08,Democratic,RepLowenthal,replowenthal
+V000130,-0.4,Juan Vargas,1961-03-07,Democratic,RepJuanVargas,repjuanvargas
+P000608,-0.182,Scott H. Peters,1958-06-17,Democratic,RepScottPeters,repscottpeters
+D000623,-0.531,Mark DeSaulnier,1952-03-31,Democratic,RepDeSaulnier,repdesaulnier
+A000371,-0.294,Pete Aguilar,1979-06-19,Democratic,reppeteaguilar,reppeteaguilar
+L000582,-0.374,Ted Lieu,1969-03-29,Democratic,RepTedLieu,reptedlieu
+T000474,-0.362,Norma J. Torres,1965-04-04,Democratic,NormaJTorres,normajtorres
+B001300,-0.515,Nanette Diaz Barragán,1976-09-15,Democratic,RepBarragan,repbarragan
+C001112,-0.302,Salud O. Carbajal,1964-11-18,Democratic,RepCarbajal,repcarbajal
+C001110,-0.28,J. Luis Correa,1958-01-24,Democratic,reploucorrea,reploucorrea
+K000389,-0.569,Ro Khanna,1976-09-13,Democratic,RepRoKhanna,reprokhanna
+P000613,-0.308,Jimmy Panetta,1969-10-01,Democratic,RepJimmyPanetta,repjimmypanetta
+G000585,-0.584,Jimmy Gomez,1974-11-25,Democratic,RepJimmyGomez,repjimmygomez
+H001090,-0.38,Josh Harder,1986-08-01,Democratic,RepJoshHarder,repjoshharder
+L000593,-0.374,Mike Levin,1978-10-28,Democratic,RepMikeLevin,repmikelevin
+P000618,-0.185,Katie Porter,1974-01-03,Democratic,RepKatiePorter,repkatieporter
+G000061,0.38,Mike Garcia,1976-04-24,Republican,repmikegarcia,repmikegarcia
+J000305,-0.301,Sara Jacobs,1989-02-01,Democratic,RepSaraJacobs,repsarajacobs
+K000397,0.263,Young Kim,1962-10-18,Republican,RepYoungKim,repyoungkim
+O000019,0.294,Jay Obernolte,1970-08-18,Republican,JayObernolte,jayobernolte
+S001135,0.328,Michelle Steel,1955-06-21,Republican,RepSteel,repsteel
+W000187,-0.653,Maxine Waters,1938-08-15,Democratic,RepMaxineWaters,repmaxinewaters
+E000215,-0.381,Anna G. Eshoo,1942-12-13,Democratic,RepAnnaEshoo,repannaeshoo
+R000486,-0.469,Lucille Roybal-Allard,1941-06-12,Democratic,RepRoybalAllard,reproybalallard
+C000059,0.35,Ken Calvert,1953-06-08,Republican,KenCalvert,kencalvert
+L000397,-0.402,Zoe Lofgren,1947-12-21,Democratic,RepZoeLofgren,repzoelofgren
+S000344,-0.342,Brad Sherman,1954-10-24,Democratic,BradSherman,bradsherman
+L000551,-0.682,Barbara Lee,1946-07-16,Democratic,RepBarbaraLee,repbarbaralee
+T000460,-0.395,Mike Thompson,1951-01-24,Democratic,RepThompson,repthompson
+N000179,-0.448,Grace F. Napolitano,1936-12-04,Democratic,GraceNapolitano,gracenapolitano
+L000564,0.676,Doug Lamborn,1954-05-24,Republican,RepDLamborn,repdlamborn
+P000593,-0.282,Ed Perlmutter,1953-05-01,Democratic,RepPerlmutter,repperlmutter
+B001297,0.727,Ken Buck,1959-02-16,Republican,RepKenBuck,repkenbuck
+C001121,-0.279,Jason Crow,1979-03-15,Democratic,RepJasonCrow,repjasoncrow
+N000191,-0.433,Joe Neguse,1984-05-13,Democratic,RepJoeNeguse,repjoeneguse
+B000825,0.787,Lauren Boebert,1986-12-15,Republican,RepBoebert,repboebert
+D000197,-0.431,Diana DeGette,1957-07-29,Democratic,RepDianaDeGette,repdianadegette
+C001069,-0.344,Joe Courtney,1953-04-06,Democratic,RepJoeCourtney,repjoecourtney
+H001047,-0.242,James A. Himes,1966-07-05,Democratic,JAHimes,jahimes
+H001081,-0.365,Jahana Hayes,1973-03-08,Democratic,RepJahanaHayes,repjahanahayes
+D000216,-0.415,Rosa L. DeLauro,1943-03-02,Democratic,RosaDeLauro,rosadelauro
+L000557,-0.397,John B. Larson,1948-07-22,Democratic,RepJohnLarson,repjohnlarson
+B001303,-0.334,Lisa Blunt Rochester,1962-02-10,Democratic,RepLBR,replbr
+D000600,0.281,Mario Diaz-Balart,1961-09-25,Republican,MarioDB,mariodb
+W000797,-0.42,Debbie Wasserman Schultz,1966-09-27,Democratic,RepDWStweets,repdwstweets
+C001066,-0.439,Kathy Castor,1966-08-20,Democratic,USRepKCastor,usrepkcastor
+B001260,0.36,Vern Buchanan,1951-05-08,Republican,VernBuchanan,vernbuchanan
+B001257,0.405,Gus M. Bilirakis,1963-02-08,Republican,RepGusBilirakis,repgusbilirakis
+P000599,0.525,Bill Posey,1947-12-18,Republican,CongBillPosey,congbillposey
+D000610,-0.4,Theodore E. Deutch,1966-05-07,Democratic,RepTedDeutch,repteddeutch
+W000806,0.51,Daniel Webster,1949-04-27,Republican,RepWebster,repwebster
+W000808,-0.478,Frederica S. Wilson,1942-11-05,Democratic,RepWilson,repwilson
+F000462,-0.4,Lois Frankel,1948-05-16,Democratic,RepLoisFrankel,reploisfrankel
+C001111,-0.225,Charlie Crist,1956-07-24,Democratic,repcharliecrist,repcharliecrist
+D000627,-0.338,Val Butler Demings,1957-03-12,Democratic,RepValDemings,repvaldemings
+D000628,0.527,Neal P. Dunn,1953-02-16,Republican,drnealdunnfl2,drnealdunnfl2
+G000578,0.625,Matt Gaetz,1982-05-07,Republican,RepMattGaetz,repmattgaetz
+L000586,-0.259,"Al Lawson, Jr.",1948-09-23,Democratic,RepAlLawsonJr,repallawsonjr
+M001199,0.447,Brian J. Mast,1980-07-10,Republican,repbrianmast,repbrianmast
+M001202,-0.16,Stephanie N. Murphy,1978-09-16,Democratic,RepStephMurphy,repstephmurphy
+R000609,0.419,John H. Rutherford,1952-09-02,Republican,RepRutherfordFL,reprutherfordfl
+S001200,-0.379,Darren Soto,1978-02-25,Democratic,RepDarrenSoto,repdarrensoto
+S001214,0.676,W. Gregory Steube,1978-05-19,Republican,RepGregSteube,repgregsteube
+W000823,0.417,Michael Waltz,1974-01-31,Republican,RepWaltzPress,repwaltzpress
+C001039,0.666,Kat Cammack,1988-02-16,Republican,RepKatCammack,repkatcammack
+D000032,0.701,Byron Donalds,1978-10-28,Republican,,
+F000472,0.585,C. Scott Franklin,1964-08-23,Republican,RepFranklin,repfranklin
+G000593,0.261,Carlos A. Gimenez,1954-01-17,Republican,RepCarlos,repcarlos
+S000168,0.278,Maria Elvira Salazar,1961-11-01,Republican,RepMariaSalazar,repmariasalazar
+S001157,-0.302,David Scott,1945-06-27,Democratic,RepDavidScott,repdavidscott
+J000288,-0.468,"Henry C. ""Hank"" Johnson, Jr.",1954-10-02,Democratic,RepHankJohnson,rephankjohnson
+S001189,0.566,Austin Scott,1969-12-10,Republican,AustinScottGA08,austinscottga08
+C001103,0.585,"Earl L. ""Buddy"" Carter",1957-09-06,Republican,RepBuddyCarter,repbuddycarter
+H001071,0.795,Jody B. Hice,1960-04-22,Republican,congressmanhice,congressmanhice
+L000583,0.693,Barry Loudermilk,1963-12-22,Republican,RepLoudermilk,reploudermilk
+A000372,0.692,Rick W. Allen,1951-11-07,Republican,reprickallen,reprickallen
+F000465,0.6,A. Drew Ferguson IV,1966-11-15,Republican,RepDrewFerguson,repdrewferguson
+M001208,-0.266,Lucy McBath,1960-06-01,Democratic,replucymcbath,replucymcbath
+B001312,-0.288,Carolyn Bourdeaux,1970-06-03,Democratic,RepBourdeaux,repbourdeaux
+C001116,0.812,Andrew S. Clyde,1963-11-22,Republican,,
+G000596,0.8,Marjorie Taylor Greene,1974-05-27,Republican,RepMTG,repmtg
+W000788,-0.333,Nikema Williams,1978-07-30,Democratic,RepNikema,repnikema
+B000490,-0.283,"Sanford D. Bishop, Jr.",1947-02-04,Democratic,SanfordBishop,sanfordbishop
+C001055,-0.196,Ed Case,1952-09-27,Democratic,RepEdCase,repedcase
+K000396,-0.318,Kaiali’i Kahele,1974-03-28,Democratic,RepKahele,repkahele
+F000469,0.638,Russ Fulcher,1973-07-19,Republican,RepRussFulcher,reprussfulcher
+S001148,0.297,Michael K. Simpson,1950-09-08,Republican,CongMikeSimpson,congmikesimpson
+F000454,-0.23,Bill Foster,1955-10-07,Democratic,RepBillFoster,repbillfoster
+Q000023,-0.322,Mike Quigley,1958-10-17,Democratic,RepMikeQuigley,repmikequigley
+K000378,0.263,Adam Kinzinger,1978-02-27,Republican,RepKinzinger,repkinzinger
+S001190,-0.178,Bradley Scott Schneider,1961-08-20,Democratic,repschneider,repschneider
+D000619,0.271,Rodney Davis,1970-01-05,Republican,RodneyDavis,rodneydavis
+B001286,-0.238,Cheri Bustos,1961-10-17,Democratic,RepCheri,repcheri
+K000385,-0.46,Robin L. Kelly,1956-04-30,Democratic,RepRobinKelly,reprobinkelly
+B001295,0.273,Mike Bost,1960-12-30,Republican,RepBost,repbost
+L000585,0.465,Darin LaHood,1968-07-05,Republican,RepLaHood,replahood
+K000391,-0.317,Raja Krishnamoorthi,1973-07-19,Democratic,congressmanraja,congressmanraja
+C001117,-0.413,Sean Casten,1971-11-23,Democratic,RepCasten,repcasten
+G000586,-0.444,"Jesús G. ""Chuy"" García",1956-04-12,Democratic,RepChuyGarcia,repchuygarcia
+U000040,-0.551,Lauren Underwood,1986-10-04,Democratic,RepUnderwood,repunderwood
+M001211,0.768,Mary E. Miller,1959-08-27,Republican,RepMaryMiller,repmarymiller
+N000192,-0.643,Marie Newman,1964-04-13,Democratic,RepMarieNewman,repmarienewman
+R000515,-0.479,Bobby L. Rush,1946-11-23,Democratic,RepBobbyRush,repbobbyrush
+D000096,-0.486,Danny K. Davis,1941-09-06,Democratic,RepDannyDavis,repdannydavis
+S001145,-0.606,Janice D. Schakowsky,1944-05-26,Democratic,JanSchakowsky,janschakowsky
+C001072,-0.431,André Carson,1974-10-16,Democratic,RepAndreCarson,repandrecarson
+B001275,0.408,Larry Bucshon,1962-05-31,Republican,RepLarryBucshon,replarrybucshon
+W000813,0.428,Jackie Walorski,1963-08-17,Republican,RepWalorski,repwalorski
+B001299,0.64,Jim Banks,1979-07-16,Republican,RepJimBanks,repjimbanks
+H001074,0.414,Trey Hollingsworth,1983-09-12,Republican,reptrey,reptrey
+B001307,0.443,James R. Baird,1945-06-04,Republican,RepJimBaird,repjimbaird
+P000615,0.487,Greg Pence,1956-11-14,Republican,RepGregPence,repgregpence
+M001214,-0.35,Frank J. Mrvan,1969-04-16,Democratic,RepMrvan,repmrvan
+S000929,0.433,Victoria Spartz,1978-10-06,Republican,RepSpartz,repspartz
+A000378,-0.242,Cynthia Axne,1965-04-20,Democratic,RepCindyAxne,repcindyaxne
+F000446,0.443,Randy Feenstra,1969-01-14,Republican,RepFeenstra,repfeenstra
+H001091,0.411,Ashley Hinson,1983-06-27,Republican,RepAshleyHinson,repashleyhinson
+M001215,0.273,Mariannette Miller-Meeks,1955-09-06,Republican,RepMMM,repmmm
+E000298,0.617,Ron Estes,1956-07-19,Republican,RepRonEstes,repronestes
+D000629,-0.254,Sharice Davids,1980-05-22,Democratic,RepDavids,repdavids
+L000266,0.512,Jake LaTurner,1988-02-17,Republican,RepLaTurner,replaturner
+M000871,0.693,Tracey Mann,1976-12-17,Republican,RepMann,repmann
+R000395,0.338,Harold Rogers,1937-12-31,Republican,RepHalRogers,rephalrogers
+Y000062,-0.378,John A. Yarmuth,1947-11-04,Democratic,RepJohnYarmuth,repjohnyarmuth
+G000558,0.42,Brett Guthrie,1964-02-18,Republican,RepGuthrie,repguthrie
+B001282,0.486,Andy Barr,1973-07-24,Republican,RepAndyBarr,repandybarr
+C001108,0.599,James Comer,1972-08-19,Republican,RepJamesComer,repjamescomer
+M001184,0.679,Thomas Massie,1971-01-13,Republican,RepThomasMassie,repthomasmassie
+S001176,0.558,Steve Scalise,1965-10-06,Republican,SteveScalise,stevescalise
+G000577,0.452,Garret Graves,1972-01-31,Republican,RepGarretGraves,repgarretgraves
+H001077,0.587,Clay Higgins,1961-08-24,Republican,RepClayHiggins,repclayhiggins
+J000299,0.561,Mike Johnson,1972-01-30,Republican,RepMikeJohnson,repmikejohnson
+L000595,0.418,Julia Letlow,1981-03-16,Republican,,
+C001125,-0.287,Troy A. Carter,1963-10-26,Democratic,,
+P000597,-0.42,Chellie Pingree,1955-04-02,Democratic,ChelliePingree,chelliepingree
+G000592,-0.11,Jared F. Golden,1982-07-25,Democratic,repgolden,repgolden
+H000874,-0.38,Steny H. Hoyer,1939-06-14,Democratic,LeaderHoyer,leaderhoyer
+M000687,-0.448,Kweisi Mfume,1948-10-24,Democratic,RepKweisiMfume,repkweisimfume
+R000576,-0.295,C. A. Dutch Ruppersberger,1946-01-31,Democratic,Call_Me_Dutch,call_me_dutch
+S001168,-0.467,John P. Sarbanes,1962-05-22,Democratic,RepSarbanes,repsarbanes
+H001052,0.663,Andy Harris,1957-01-25,Republican,RepAndyHarrisMD,repandyharrismd
+B001304,-0.337,Anthony Brown,1961-11-21,Democratic,RepAnthonyBrown,repanthonybrown
+R000606,-0.543,Jamie Raskin,1962-12-13,Democratic,repraskin,repraskin
+T000483,-0.277,David J. Trone,1955-09-21,Democratic,repdavidtrone,repdavidtrone
+N000015,-0.417,Richard E. Neal,1949-02-14,Democratic,RepRichardNeal,reprichardneal
+L000562,-0.35,Stephen F. Lynch,1955-03-31,Democratic,RepStephenLynch,repstephenlynch
+K000375,-0.328,William R. Keating,1952-09-06,Democratic,USRepKeating,usrepkeating
+C001101,-0.484,Katherine M. Clark,1963-07-17,Democratic,RepKClark,repkclark
+M001196,-0.284,Seth Moulton,1978-10-24,Democratic,teammoulton,teammoulton
+P000617,-0.309,Ayanna Pressley,1974-02-03,Democratic,RepPressley,reppressley
+T000482,-0.464,Lori Trahan,1973-10-27,Democratic,RepLoriTrahan,reploritrahan
+A000148,-0.306,Jake Auchincloss,1988-01-29,Democratic,RepAuchincloss,repauchincloss
+M000312,-0.539,James P. McGovern,1959-11-20,Democratic,RepMcGovern,repmcgovern
+U000031,0.33,Fred Upton,1953-04-23,Republican,RepFredUpton,repfredupton
+W000798,0.514,Tim Walberg,1951-04-12,Republican,RepWalberg,repwalberg
+H001058,0.573,Bill Huizenga,1969-01-31,Republican,RepHuizenga,rephuizenga
+K000380,-0.395,Daniel T. Kildee,1958-08-11,Democratic,RepDanKildee,repdankildee
+M001194,0.398,John R. Moolenaar,1961-05-08,Republican,RepMoolenaar,repmoolenaar
+D000624,-0.408,Debbie Dingell,1953-11-23,Democratic,RepDebDingell,repdebdingell
+L000581,-0.448,Brenda L. Lawrence,1954-10-18,Democratic,RepLawrence,replawrence
+B001301,0.438,Jack Bergman,1947-02-02,Republican,RepJackBergman,repjackbergman
+L000592,-0.521,Andy Levin,1960-08-01,Democratic,RepAndyLevin,repandylevin
+S001208,-0.306,Elissa Slotkin,1976-07-10,Democratic,RepSlotkin,repslotkin
+S001215,-0.33,Haley M. Stevens,1983-06-24,Democratic,RepHaleyStevens,rephaleystevens
+T000481,-0.25,Rashida Tlaib,1976-07-24,Democratic,RepRashida,reprashida
+M001136,0.485,Lisa C. McClain,1966-04-07,Republican,RepLisaMcClain,replisamcclain
+M001186,0.251,Peter Meijer,1988-01-10,Republican,RepMeijer,repmeijer
+M001143,-0.417,Betty McCollum,1954-07-12,Democratic,BettyMcCollum04,bettymccollum04
+E000294,0.452,Tom Emmer,1961-03-03,Republican,RepTomEmmer,reptomemmer
+C001119,-0.315,Angie Craig,1972-02-14,Democratic,RepAngieCraig,repangiecraig
+H001088,0.472,Jim Hagedorn,1962-08-04,Republican,RepHagedorn,rephagedorn
+O000173,-0.285,Ilhan Omar,1981-10-04,Democratic,Ilhan,ilhan
+P000616,-0.255,Dean Phillips,1969-01-20,Democratic,RepDeanPhillips,repdeanphillips
+S001212,0.303,Pete Stauber,1966-05-10,Republican,RepPeteStauber,reppetestauber
+F000470,0.515,Michelle Fischbach,1965-11-03,Republican,RepFischbach,repfischbach
+P000601,0.533,Steven M. Palazzo,1970-02-21,Republican,CongPalazzo,congpalazzo
+K000388,0.638,Trent Kelly,1966-03-01,Republican,reptrentkelly,reptrentkelly
+G000591,0.512,Michael Guest,1970-02-04,Republican,RepMichaelGuest,repmichaelguest
+T000193,-0.516,Bennie G. Thompson,1948-01-28,Democratic,BennieGThompson,benniegthompson
+G000546,0.444,Sam Graves,1963-11-07,Republican,RepSamGraves,repsamgraves
+C001061,-0.453,Emanuel Cleaver,1944-10-26,Democratic,RepCleaver,repcleaver
+L000569,0.439,Blaine Luetkemeyer,1952-05-07,Republican,RepBlaine,repblaine
+H001053,0.463,Vicky Hartzler,1960-10-13,Republican,RepHartzler,rephartzler
+L000576,0.546,Billy Long,1955-08-11,Republican,USRepLong,usreplong
+W000812,0.433,Ann Wagner,1962-09-13,Republican,RepAnnWagner,repannwagner
+S001195,0.596,Jason Smith,1980-06-16,Republican,RepJasonSmith,repjasonsmith
+B001224,-0.239,Cori Bush,1976-07-21,Democratic,RepCori,repcori
+R000103,0.739,Matthew M. Rosendale,1960-07-07,Republican,RepRosendale,reprosendale
+F000449,0.303,Jeff Fortenberry,1960-12-27,Republican,JeffFortenberry,jefffortenberry
+S001172,0.517,Adrian Smith,1970-12-19,Republican,RepAdrianSmith,repadriansmith
+B001298,0.38,Don Bacon,1963-08-16,Republican,repdonbacon,repdonbacon
+T000468,-0.303,Dina Titus,1950-05-23,Democratic,RepDinaTitus,repdinatitus
+A000369,0.379,Mark E. Amodei,1958-06-12,Republican,MarkAmodeiNV2,markamodeinv2
+H001066,-0.351,Steven Horsford,1973-04-29,Democratic,RepHorsford,rephorsford
+L000590,-0.296,Susie Lee,1966-11-07,Democratic,RepSusieLee,repsusielee
+K000382,-0.256,Ann Kuster,1956-09-05,Democratic,RepAnnieKuster,repanniekuster
+P000614,-0.288,Chris Pappas,1980-06-04,Democratic,RepChrisPappas,repchrispappas
+S000522,0.166,Christopher H. Smith,1953-03-04,Republican,,
+P000034,-0.404,"Frank Pallone, Jr.",1951-10-30,Democratic,FrankPallone,frankpallone
+S001165,-0.403,Albio Sires,1951-01-26,Democratic,RepSires,repsires
+N000188,-0.425,Donald Norcross,1958-12-13,Democratic,DonaldNorcross,donaldnorcross
+W000822,-0.626,Bonnie Watson Coleman,1945-02-06,Democratic,RepBonnie,repbonnie
+G000583,-0.148,Josh Gottheimer,1975-03-08,Democratic,RepJoshG,repjoshg
+K000394,-0.285,Andy Kim,1982-07-12,Democratic,RepAndyKimNJ,repandykimnj
+M001203,-0.275,Tom Malinowski,1965-09-23,Democratic,RepMalinowski,repmalinowski
+S001207,-0.198,Mikie Sherrill,1972-01-19,Democratic,RepSherrill,repsherrill
+P000096,-0.366,"Bill Pascrell, Jr.",1937-01-25,Democratic,BillPascrell,billpascrell
+P000604,-0.518,"Donald M. Payne, Jr.",1958-12-17,Democratic,RepDonaldPayne,repdonaldpayne
+V000133,0.219,Jefferson Van Drew,1953-02-23,Republican,,
+H001084,0.936,Yvette Herrell,1964-03-16,Republican,RepHerrell,repherrell
+L000273,-0.438,Teresa Leger Fernandez,1959-07-01,Democratic,RepTeresaLF,repteresalf
+S001218,-0.428,Melanie A. Stansbury,1979-01-31,Democratic,,
+H001038,-0.347,Brian Higgins,1959-10-06,Democratic,RepBrianHiggins,repbrianhiggins
+C001067,-0.613,Yvette D. Clarke,1964-11-21,Democratic,RepYvetteClarke,repyvetteclarke
+T000469,-0.42,Paul Tonko,1949-06-18,Democratic,RepPaulTonko,reppaultonko
+R000585,0.274,Tom Reed,1971-11-18,Republican,TomReedNY23,tomreedny23
+M001188,-0.376,Grace Meng,1975-10-01,Democratic,RepGraceMeng,repgracemeng
+J000294,-0.489,Hakeem S. Jeffries,1970-08-04,Democratic,RepJeffries,repjeffries
+M001185,-0.238,Sean Patrick Maloney,1966-07-30,Democratic,RepSeanMaloney,repseanmaloney
+Z000017,0.396,Lee M. Zeldin,1980-01-30,Republican,RepLeeZeldin,repleezeldin
+R000602,-0.287,Kathleen M. Rice,1965-02-15,Democratic,RepKathleenRice,repkathleenrice
+S001196,0.24,Elise M. Stefanik,1984-07-02,Republican,RepStefanik,repstefanik
+K000386,0.195,John Katko,1962-11-09,Republican,RepJohnKatko,repjohnkatko
+E000297,-0.616,Adriano Espaillat,1954-09-27,Democratic,RepEspaillat,repespaillat
+S001201,-0.215,Thomas R. Suozzi,1962-08-31,Democratic,RepTomSuozzi,reptomsuozzi
+T000478,0.323,Claudia Tenney,1961-02-04,Republican,RepTenney,reptenney
+M001206,-0.338,Joseph D. Morelle,1957-04-29,Democratic,RepJoeMorelle,repjoemorelle
+D000630,-0.231,Antonio Delgado,1977-01-19,Democratic,repdelgado,repdelgado
+O000172,-0.239,Alexandria Ocasio-Cortez,1989-10-13,Democratic,RepAOC,repaoc
+J000020,0.331,Chris Jacobs,1966-11-28,Republican,,
+B001223,-0.317,Jamaal Bowman,1976-04-01,Democratic,RepBowman,repbowman
+G000597,0.27,Andrew R. Garbarino,1984-09-27,Republican,RepGarbarino,repgarbarino
+J000306,-0.514,Mondaire Jones,1987-05-18,Democratic,RepMondaire,repmondaire
+M000317,0.261,Nicole Malliotakis,1980-11-11,Republican,RepMalliotakis,repmalliotakis
+T000486,-0.536,Ritchie Torres,1988-03-12,Democratic,RepRitchie,repritchie
+N000002,-0.509,Jerrold Nadler,1947-06-13,Democratic,RepJerryNadler,repjerrynadler
+V000081,-0.547,Nydia M. Velázquez,1953-03-28,Democratic,NydiaVelazquez,nydiavelazquez
+M000087,-0.387,Carolyn B. Maloney,1946-02-19,Democratic,RepMaloney,repmaloney
+M001137,-0.414,Gregory W. Meeks,1953-09-25,Democratic,RepGregoryMeeks,repgregorymeeks
+P000523,-0.343,David E. Price,1940-08-17,Democratic,RepDavidEPrice,repdavideprice
+B001251,-0.403,G. K. Butterfield,1947-04-27,Democratic,GKButterfield,gkbutterfield
+F000450,0.628,Virginia Foxx,1943-06-29,Republican,VirginiaFoxx,virginiafoxx
+M001156,0.545,Patrick T. McHenry,1975-10-22,Republican,PatrickMcHenry,patrickmchenry
+H001067,0.568,Richard Hudson,1971-11-04,Republican,RepRichHudson,reprichhudson
+R000603,0.573,David Rouzer,1972-02-16,Republican,RepDavidRouzer,repdavidrouzer
+A000370,-0.465,Alma S. Adams,1946-05-27,Democratic,RepAdams,repadams
+B001305,0.678,Ted Budd,1971-10-21,Republican,RepTedBudd,reptedbudd
+B001311,0.761,Dan Bishop,1964-07-01,Republican,RepDanBishop,repdanbishop
+M001210,0.484,Gregory F. Murphy,1963-03-05,Republican,RepGregMurphy,repgregmurphy
+C001104,0.513,Madison Cawthorn,1995-08-01,Republican,RepCawthorn,repcawthorn
+M001135,-0.332,Kathy E. Manning,1956-12-03,Democratic,RepKManning,repkmanning
+R000305,-0.314,Deborah K. Ross,1963-06-20,Democratic,RepDeborahRoss,repdeborahross
+A000377,0.482,Kelly Armstrong,1976-10-08,Republican,RepArmstrongND,reparmstrongnd
+K000009,-0.35,Marcy Kaptur,1946-06-17,Democratic,RepMarcyKaptur,repmarcykaptur
+T000463,0.275,Michael R. Turner,1960-01-11,Republican,RepMikeTurner,repmiketurner
+R000577,-0.402,Tim Ryan,1973-07-16,Democratic,RepTimRyan,reptimryan
+J000289,0.718,Jim Jordan,1964-02-17,Republican,Jim_Jordan,jim_jordan
+L000566,0.516,Robert E. Latta,1956-04-18,Republican,BobLatta,boblatta
+J000292,0.427,Bill Johnson,1954-11-10,Republican,RepBillJohnson,repbilljohnson
+S001187,0.3,Steve Stivers,1965-03-24,Republican,RepSteveStivers,repstevestivers
+G000563,0.477,Bob Gibbs,1954-06-14,Republican,RepBobGibbs,repbobgibbs
+W000815,0.544,Brad R. Wenstrup,1958-06-17,Republican,RepBradWenstrup,repbradwenstrup
+B001281,-0.433,Joyce Beatty,1950-03-12,Democratic,RepBeatty,repbeatty
+J000295,0.263,David P. Joyce,1957-03-17,Republican,RepDaveJoyce,repdavejoyce
+D000626,0.683,Warren Davidson,1970-03-01,Republican,WarrenDavidson,warrendavidson
+B001306,0.418,Troy Balderson,1962-01-16,Republican,RepBalderson,repbalderson
+G000588,0.271,Anthony Gonzalez,1984-09-19,Republican,RepAGonzalez,repagonzalez
+C000266,0.564,Steve Chabot,1953-01-22,Republican,RepSteveChabot,repstevechabot
+C001053,0.332,Tom Cole,1949-04-28,Republican,TomColeOK04,tomcoleok04
+M001190,0.52,Markwayne Mullin,1977-07-26,Republican,RepMullin,repmullin
+H001082,0.685,Kevin Hern,1961-12-04,Republican,repkevinhern,repkevinhern
+B000740,0.385,Stephanie I. Bice,1973-11-11,Republican,RepBice,repbice
+L000491,0.363,Frank D. Lucas,1960-01-06,Republican,RepFrankLucas,repfranklucas
+D000191,-0.428,Peter A. DeFazio,1947-05-27,Democratic,RepPeterDeFazio,reppeterdefazio
+S001180,-0.185,Kurt Schrader,1951-10-19,Democratic,RepSchrader,repschrader
+B001278,-0.394,Suzanne Bonamici,1954-10-14,Democratic,RepBonamici,repbonamici
+B000668,0.376,Cliff Bentz,1952-01-12,Republican,RepBentz,repbentz
+B000574,-0.428,Earl Blumenauer,1948-08-16,Democratic,BlumenauerMedia,blumenauermedia
+T000467,0.316,Glenn Thompson,1959-07-27,Republican,CongressmanGT,congressmangt
+K000376,0.358,Mike Kelly,1948-05-10,Republican,MikeKellyPA,mikekellypa
+P000605,0.636,Scott Perry,1962-05-27,Republican,RepScottPerry,repscottperry
+C001090,-0.365,Matt Cartwright,1961-05-01,Democratic,RepCartwright,repcartwright
+B001296,-0.4,Brendan F. Boyle,1977-02-06,Democratic,CongBoyle,congboyle
+E000296,-0.459,Dwight Evans,1954-05-16,Democratic,RepDwightEvans,repdwightevans
+F000466,0.166,Brian K. Fitzpatrick,1973-12-17,Republican,repbrianfitz,repbrianfitz
+S001199,0.427,Lloyd Smucker,1964-01-23,Republican,RepSmucker,repsmucker
+L000588,-0.132,Conor Lamb,1984-06-27,Democratic,RepConorLamb,repconorlamb
+S001205,-0.462,Mary Gay Scanlon,1959-08-30,Democratic,RepMGS,repmgs
+W000826,-0.323,Susan Wild,1957-06-07,Democratic,RepSusanWild,repsusanwild
+D000631,-0.48,Madeleine Dean,1959-06-06,Democratic,RepDean,repdean
+H001085,-0.318,Chrissy Houlahan,1967-06-05,Democratic,RepHoulahan,rephoulahan
+J000302,0.53,John Joyce,1957-02-08,Republican,RepJohnJoyce,repjohnjoyce
+M001204,0.531,Daniel Meuser,1964-02-10,Republican,RepMeuser,repmeuser
+R000610,0.375,Guy Reschenthaler,1983-04-17,Republican,GReschenthaler,greschenthaler
+K000395,0.499,Fred Keller,1965-10-23,Republican,RepFredKeller,repfredkeller
+D000482,-0.331,Michael F. Doyle,1953-08-05,Democratic,USRepMikeDoyle,usrepmikedoyle
+L000559,-0.375,James R. Langevin,1964-04-22,Democratic,JimLangevin,jimlangevin
+C001084,-0.389,David N. Cicilline,1961-07-15,Democratic,RepCicilline,repcicilline
+W000795,0.536,Joe Wilson,1947-07-31,Republican,RepJoeWilson,repjoewilson
+D000615,0.735,Jeff Duncan,1966-01-07,Republican,RepJeffDuncan,repjeffduncan
+R000597,0.592,Tom Rice,1957-08-04,Republican,RepTomRice,reptomrice
+N000190,0.801,Ralph Norman,1953-06-20,Republican,RepRalphNorman,repralphnorman
+T000480,0.587,William R. Timmons IV,1984-04-30,Republican,RepTimmons,reptimmons
+M000194,0.401,Nancy Mace,1977-12-04,Republican,RepNancyMace,repnancymace
+C000537,-0.464,James E. Clyburn,1940-07-21,Democratic,WhipClyburn,whipclyburn
+J000301,0.461,Dusty Johnson,1976-09-30,Republican,RepDustyJohnson,repdustyjohnson
+C000754,-0.164,Jim Cooper,1954-06-19,Democratic,RepJimCooper,repjimcooper
+C001068,-0.401,Steve Cohen,1949-05-24,Democratic,RepCohen,repcohen
+F000459,0.457,"Charles J. ""Chuck"" Fleischmann",1962-10-11,Republican,RepChuck,repchuck
+D000616,0.585,Scott DesJarlais,1964-02-21,Republican,DesJarlaisTN04,desjarlaistn04
+K000392,0.524,David Kustoff,1966-10-08,Republican,repdavidkustoff,repdavidkustoff
+B001309,0.67,Tim Burchett,1964-08-25,Republican,RepTimBurchett,reptimburchett
+G000590,0.678,Mark E. Green,1964-11-08,Republican,RepMarkGreen,repmarkgreen
+R000612,0.68,John Rose,1965-02-23,Republican,RepJohnRose,repjohnrose
+H001086,0.652,Diana Harshbarger,1960-01-01,Republican,RepHarshbarger,repharshbarger
+B001248,0.573,Michael C. Burgess,1950-12-23,Republican,MichaelCBurgess,michaelcburgess
+C001051,0.474,John R. Carter,1941-11-06,Republican,JudgeCarter,judgecarter
+G000552,0.633,Louie Gohmert,1953-08-18,Republican,RepLouieGohmert,replouiegohmert
+G000553,-0.438,Al Green,1947-09-01,Democratic,RepAlGreen,repalgreen
+M001157,0.43,Michael T. McCaul,1962-01-14,Republican,RepMcCaul,repmccaul
+C001063,-0.228,Henry Cuellar,1955-09-19,Democratic,RepCuellar,repcuellar
+W000814,0.712,"Randy K. Weber, Sr.",1953-07-02,Republican,TXRandy14,txrandy14
+C001091,-0.4,Joaquin Castro,1974-09-16,Democratic,JoaquinCastrotx,joaquincastrotx
+W000816,0.584,Roger Williams,1949-09-13,Republican,RepRWilliams,reprwilliams
+V000131,-0.401,Marc A. Veasey,1971-01-03,Democratic,RepVeasey,repveasey
+V000132,-0.312,Filemon Vela,1963-02-13,Democratic,RepFilemonVela,repfilemonvela
+B001291,0.702,Brian Babin,1948-03-23,Republican,RepBrianBabin,repbrianbabin
+A000375,0.643,Jodey C. Arrington,1972-03-09,Republican,RepArrington,reparrington
+G000581,-0.381,Vicente Gonzalez,1967-09-04,Democratic,RepGonzalez,repgonzalez
+C001115,0.667,Michael Cloud,1975-05-13,Republican,RepCloudTX,repcloudtx
+A000376,-0.431,Colin Z. Allred,1983-04-15,Democratic,RepColinAllred,repcolinallred
+C001120,0.4,Dan Crenshaw,1984-03-14,Republican,RepDanCrenshaw,repdancrenshaw
+E000299,-0.392,Veronica Escobar,1969-09-15,Democratic,RepEscobar,repescobar
+F000468,-0.408,Lizzie Fletcher,1975-02-13,Democratic,RepFletcher,repfletcher
+G000587,-0.747,Sylvia R. Garcia,1950-09-06,Democratic,RepSylviaGarcia,repsylviagarcia
+G000589,0.722,Lance Gooden,1982-12-01,Republican,,
+R000614,0.8,Chip Roy,1972-08-07,Republican,RepChipRoy,repchiproy
+T000479,0.551,Van Taylor,1972-08-01,Republican,RepVanTaylor,repvantaylor
+F000246,0.734,Pat Fallon,1967-12-19,Republican,RepPatFallon,reppatfallon
+G000594,0.276,Tony Gonzales,1980-10-10,Republican,RepTonyGonzales,reptonygonzales
+J000304,0.746,Ronny Jackson,1967-05-04,Republican,RepRonnyJackson,repronnyjackson
+N000026,0.546,Troy E. Nehls,1968-04-07,Republican,RepTroyNehls,reptroynehls
+P000048,0.666,August Pfluger,1978-12-28,Republican,RepPfluger,reppfluger
+V000134,0.498,Beth Van Duyne,1970-11-16,Republican,RepBethVanDuyne,repbethvanduyne
+E000071,0.466,Jake Ellzey,1970-01-24,Republican,,
+D000399,-0.402,Lloyd Doggett,1946-10-06,Democratic,RepLloydDoggett,replloyddoggett
+J000032,-0.46,Sheila Jackson Lee,1950-01-12,Democratic,JacksonLeeTX18,jacksonleetx18
+S000250,0.587,Pete Sessions,1955-03-22,Republican,,
+B000755,0.524,Kevin Brady,1955-04-11,Republican,RepKevinBrady,repkevinbrady
+G000377,0.398,Kay Granger,1943-01-18,Republican,RepKayGranger,repkaygranger
+J000126,-0.485,Eddie Bernice Johnson,1935-12-03,Democratic,RepEBJ,repebj
+S001192,0.526,Chris Stewart,1960-07-15,Republican,RepChrisStewart,repchrisstewart
+C001114,0.517,John R. Curtis,1960-05-10,Republican,RepJohnCurtis,repjohncurtis
+M001213,0.37,Blake D. Moore,1980-06-22,Republican,RepBlakeMoore,repblakemoore
+O000086,0.484,Burgess Owens,1951-08-02,Republican,RepBurgessOwens,repburgessowens
+W000800,-0.409,Peter Welch,1947-05-02,Democratic,PeterWelch,peterwelch
+W000804,0.446,Robert J. Wittman,1959-02-03,Republican,RobWittman,robwittman
+C001078,-0.306,Gerald E. Connolly,1950-03-30,Democratic,GerryConnolly,gerryconnolly
+G000568,0.546,H. Morgan Griffith,1958-03-15,Republican,RepMGriffith,repmgriffith
+B001292,-0.385,"Donald S. Beyer, Jr.",1950-06-20,Democratic,RepDonBeyer,repdonbeyer
+M001200,-0.375,A. Donald McEachin,1961-10-10,Democratic,RepMcEachin,repmceachin
+C001118,0.699,Ben Cline,1972-02-29,Republican,RepBenCline,repbencline
+L000591,-0.197,Elaine G. Luria,1975-08-15,Democratic,RepElaineLuria,repelaineluria
+S001209,-0.173,Abigail Davis Spanberger,1979-08-07,Democratic,RepSpanberger,repspanberger
+W000825,-0.393,Jennifer Wexton,1968-05-27,Democratic,RepWexton,repwexton
+G000595,0.8,Bob Good,1965-09-11,Republican,RepBobGood,repbobgood
+S000185,-0.45,"Robert C. ""Bobby"" Scott",1947-04-30,Democratic,BobbyScott,bobbyscott
+L000560,-0.365,Rick Larsen,1965-06-15,Democratic,RepRickLarsen,repricklarsen
+M001159,0.425,Cathy McMorris Rodgers,1969-05-22,Republican,CathyMcMorris,cathymcmorris
+H001056,0.353,Jaime Herrera Beutler,1978-11-03,Republican,HerreraBeutler,herrerabeutler
+K000381,-0.31,Derek Kilmer,1974-01-01,Democratic,RepDerekKilmer,repderekkilmer
+N000189,0.339,Dan Newhouse,1955-07-10,Republican,RepNewhouse,repnewhouse
+J000298,-0.695,Pramila Jayapal,1965-09-21,Democratic,RepJayapal,repjayapal
+S001216,-0.347,Kim Schrier,1968-08-23,Democratic,RepKimSchrier,repkimschrier
+S001159,-0.586,Marilyn Strickland,1962-09-25,Democratic,RepStricklandWA,repstricklandwa
+S000510,-0.285,Adam Smith,1965-06-15,Democratic,RepAdamSmith,repadamsmith
+D000617,-0.283,Suzan K. DelBene,1962-02-17,Democratic,RepDelBene,repdelbene
+M001180,0.301,David B. McKinley,1947-03-28,Republican,RepMcKinley,repmckinley
+M001195,0.577,Alexander Mooney,1971-06-05,Republican,RepAlexMooney,repalexmooney
+M001205,0.476,Carol D. Miller,1950-11-04,Republican,RepCarolMiller,repcarolmiller
+M001160,-0.528,Gwen Moore,1951-04-18,Democratic,RepGwenMoore,repgwenmoore
+P000607,-0.54,Mark Pocan,1964-08-14,Democratic,RepMarkPocan,repmarkpocan
+G000576,0.603,Glenn Grothman,1955-07-03,Republican,RepGrothman,repgrothman
+G000579,0.44,Mike Gallagher,1984-03-03,Republican,RepGallagher,repgallagher
+S001213,0.425,Bryan Steil,1981-03-30,Republican,RepBryanSteil,repbryansteil
+T000165,0.633,Thomas P. Tiffany,1957-12-30,Republican,,
+F000471,0.608,Scott Fitzgerald,1963-11-16,Republican,RepFitzgerald,repfitzgerald
+K000188,-0.261,Ron Kind,1963-03-16,Democratic,RepRonKind,repronkind
+C001109,0.492,Liz Cheney,1966-07-28,Republican,RepLizCheney,replizcheney
+T000278,0.936,Tommy Tuberville,1954-09-18,Republican,SenTuberville,sentuberville
+S000320,0.442,Richard C. Shelby,1934-05-06,Democratic,SenShelby,senshelby
+M001153,0.211,Lisa Murkowski,1957-05-22,Republican,LisaMurkowski,lisamurkowski
+S001198,0.467,Dan Sullivan,1964-11-13,Republican,SenDanSullivan,sendansullivan
+S001191,-0.103,Kyrsten Sinema,1976-07-12,Democratic,SenatorSinema,senatorsinema
+K000377,-0.186,Mark Kelly,1964-02-21,Democratic,SenMarkKelly,senmarkkelly
+B001236,0.414,John Boozman,1950-12-10,Republican,JohnBoozman,johnboozman
+C001095,0.609,Tom Cotton,1977-05-13,Republican,SenTomCotton,sentomcotton
+P000145,-0.393,Alex Padilla,1973-03-22,Democratic,SenAlexPadilla,senalexpadilla
+F000062,-0.268,Dianne Feinstein,1933-06-22,Democratic,SenFeinstein,senfeinstein
+B001267,-0.228,Michael F. Bennet,1964-11-28,Democratic,SenatorBennet,senatorbennet
+H000273,-0.24,John W. Hickenlooper,1952-02-07,Democratic,,
+M001169,-0.27,Christopher Murphy,1973-08-03,Democratic,senmurphyoffice,senmurphyoffice
+B001277,-0.438,Richard Blumenthal,1946-02-13,Democratic,SenBlumenthal,senblumenthal
+C000174,-0.177,Thomas R. Carper,1947-01-23,Democratic,SenatorCarper,senatorcarper
+C001088,-0.229,Christopher A. Coons,1963-09-09,Democratic,ChrisCoons,chriscoons
+R000595,0.589,Marco Rubio,1971-05-28,Republican,SenRubioPress,senrubiopress
+S001217,0.659,Rick Scott,1952-12-01,Republican,SenRickScott,senrickscott
+O000174,-0.448,Jon Ossoff,1987-02-16,Democratic,SenOssoff,senossoff
+W000790,-0.38,Raphael G. Warnock,1969-07-23,Democratic,SenatorWarnock,senatorwarnock
+H001042,-0.512,Mazie K. Hirono,1947-11-03,Democratic,MazieHirono,maziehirono
+S001194,-0.443,Brian Schatz,1972-10-20,Democratic,SenBrianSchatz,senbrianschatz
+C000880,0.502,Mike Crapo,1951-05-20,Republican,MikeCrapo,mikecrapo
+R000584,0.583,James E. Risch,1943-05-03,Republican,SenatorRisch,senatorrisch
+D000563,-0.348,Richard J. Durbin,1944-11-21,Democratic,SenatorDurbin,senatordurbin
+D000622,-0.335,Tammy Duckworth,1968-03-12,Democratic,SenDuckworth,senduckworth
+Y000064,0.464,Todd Young,1972-08-24,Republican,SenToddYoung,sentoddyoung
+B001310,0.8,Mike Braun,1954-03-24,Republican,SenatorBraun,senatorbraun
+G000386,0.348,Chuck Grassley,1933-09-17,Republican,ChuckGrassley,chuckgrassley
+E000295,0.541,Joni Ernst,1970-07-01,Republican,SenJoniErnst,senjoniernst
+M001198,0.555,Roger Marshall,1960-08-09,Republican,SenatorMarshall,senatormarshall
+M000934,0.415,Jerry Moran,1954-05-29,Republican,JerryMoran,jerrymoran
+M000355,0.404,Mitch McConnell,1942-02-20,Republican,McConnellPress,mcconnellpress
+P000603,0.88,Rand Paul,1963-01-07,Republican,RandPaul,randpaul
+C001075,0.459,Bill Cassidy,1957-09-28,Republican,SenBillCassidy,senbillcassidy
+K000393,0.606,John Kennedy,1951-11-21,Republican,SenJohnKennedy,senjohnkennedy
+K000383,-0.158,"Angus S. King, Jr.",1944-03-31,Independent,SenAngusKing,senangusking
+C001035,0.115,Susan M. Collins,1952-12-07,Republican,SenatorCollins,senatorcollins
+C000141,-0.319,Benjamin L. Cardin,1943-10-05,Democratic,SenatorCardin,senatorcardin
+V000128,-0.391,Chris Van Hollen,1959-01-10,Democratic,ChrisVanHollen,chrisvanhollen
+M000133,-0.513,Edward J. Markey,1946-07-11,Democratic,SenMarkey,senmarkey
+W000817,-0.757,Elizabeth Warren,1949-06-22,Democratic,SenWarren,senwarren
+P000595,-0.246,Gary C. Peters,1958-12-01,Democratic,SenGaryPeters,sengarypeters
+S000770,-0.342,Debbie Stabenow,1950-04-29,Democratic,SenStabenow,senstabenow
+K000367,-0.285,Amy Klobuchar,1960-05-25,Democratic,SenAmyKlobuchar,senamyklobuchar
+S001203,-0.398,Tina Smith,1958-03-04,Democratic,SenTinaSmith,sentinasmith
+W000437,0.379,Roger F. Wicker,1951-07-05,Republican,SenatorWicker,senatorwicker
+H001079,0.423,Cindy Hyde-Smith,1959-05-10,Republican,SenHydeSmith,senhydesmith
+B000575,0.415,Roy Blunt,1950-01-10,Republican,RoyBlunt,royblunt
+H001089,0.712,Josh Hawley,1979-12-31,Republican,SenHawleyPress,senhawleypress
+D000618,0.572,Steve Daines,1962-08-20,Republican,SteveDaines,stevedaines
+T000464,-0.215,Jon Tester,1956-08-21,Democratic,SenatorTester,senatortester
+F000463,0.452,Deb Fischer,1951-03-01,Republican,SenatorFischer,senatorfischer
+S001197,0.713,Ben Sasse,1972-02-22,Republican,SenSasse,sensasse
+R000608,-0.285,Jacky Rosen,1957-08-02,Democratic,SenJackyRosen,senjackyrosen
+C001113,-0.367,Catherine Cortez Masto,1964-03-29,Democratic,sencortezmasto,sencortezmasto
+S001181,-0.237,Jeanne Shaheen,1947-01-28,Democratic,SenatorShaheen,senatorshaheen
+H001076,-0.23,Margaret Wood Hassan,1958-02-27,Democratic,Senatorhassan,senatorhassan
+M000639,-0.367,Robert Menendez,1954-01-01,Democratic,SenatorMenendez,senatormenendez
+B001288,-0.591,Cory A. Booker,1969-04-27,Democratic,SenBooker,senbooker
+H001046,-0.33,Martin Heinrich,1971-10-17,Democratic,MartinHeinrich,martinheinrich
+L000570,-0.368,Ben Ray Luján,1972-06-07,Democratic,SenatorLujan,senatorlujan
+S000148,-0.359,Charles E. Schumer,1950-11-23,Democratic,SenSchumer,senschumer
+G000555,-0.473,Kirsten E. Gillibrand,1966-12-09,Democratic,GillibrandNY,gillibrandny
+B001135,0.441,Richard Burr,1955-11-30,Republican,SenatorBurr,senatorburr
+T000476,0.423,Thom Tillis,1960-08-30,Republican,senthomtillis,senthomtillis
+C001096,0.392,Kevin Cramer,1961-01-21,Republican,SenKevinCramer,senkevincramer
+H001061,0.36,John Hoeven,1957-03-13,Republican,SenJohnHoeven,senjohnhoeven
+P000449,0.37,Rob Portman,1955-12-19,Republican,SenRobPortman,senrobportman
+B000944,-0.428,Sherrod Brown,1952-11-09,Democratic,SenSherrodBrown,sensherrodbrown
+I000024,0.555,James M. Inhofe,1934-11-17,Republican,InhofePress,inhofepress
+L000575,0.596,James Lankford,1968-03-04,Republican,SenatorLankford,senatorlankford
+W000779,-0.33,Ron Wyden,1949-05-03,Democratic,RonWyden,ronwyden
+M001176,-0.44,Jeff Merkley,1956-10-24,Democratic,SenJeffMerkley,senjeffmerkley
+T000461,0.634,Patrick J. Toomey,1961-11-17,Republican,SenToomey,sentoomey
+C001070,-0.314,"Robert P. Casey, Jr.",1960-04-13,Democratic,SenBobCasey,senbobcasey
+R000122,-0.367,Jack Reed,1949-11-12,Democratic,SenJackReed,senjackreed
+W000802,-0.355,Sheldon Whitehouse,1955-10-20,Democratic,SenWhitehouse,senwhitehouse
+S001184,0.625,Tim Scott,1965-09-19,Republican,SenatorTimScott,senatortimscott
+G000359,0.394,Lindsey Graham,1955-07-09,Republican,GrahamBlog,grahamblog
+T000250,0.42,John Thune,1961-01-07,Republican,SenJohnThune,senjohnthune
+R000605,0.382,Mike Rounds,1954-10-24,Republican,SenatorRounds,senatorrounds
+B001243,0.623,Marsha Blackburn,1952-06-06,Republican,MarshaBlackburn,marshablackburn
+H000601,0.705,Bill Hagerty,1959-08-14,Republican,SenatorHagerty,senatorhagerty
+C001056,0.479,John Cornyn,1952-02-02,Republican,JohnCornyn,johncornyn
+C001098,0.839,Ted Cruz,1970-12-22,Republican,SenTedCruz,sentedcruz
+L000577,0.902,Mike Lee,1971-06-04,Republican,SenMikeLee,senmikelee
+R000615,0.299,Mitt Romney,1947-03-12,Republican,SenatorRomney,senatorromney
+L000174,-0.36,Patrick J. Leahy,1940-03-31,Democratic,SenatorLeahy,senatorleahy
+S000033,-0.531,Bernard Sanders,1941-09-08,Independent,SenSanders,sensanders
+W000805,-0.203,Mark R. Warner,1954-12-15,Democratic,MarkWarner,markwarner
+K000384,-0.243,Tim Kaine,1958-02-26,Democratic,,
+C000127,-0.305,Maria Cantwell,1958-10-13,Democratic,SenatorCantwell,senatorcantwell
+M001111,-0.352,Patty Murray,1950-10-11,Democratic,PattyMurray,pattymurray
+C001047,0.268,Shelley Moore Capito,1953-11-26,Republican,SenCapito,sencapito
+M001183,-0.058,"Joe Manchin, III",1947-08-24,Democratic,Sen_JoeManchin,sen_joemanchin
+B001230,-0.492,Tammy Baldwin,1962-02-11,Democratic,SenatorBaldwin,senatorbaldwin
+J000293,0.602,Ron Johnson,1955-04-08,Republican,SenRonJohnson,senronjohnson
+L000571,0.679,Cynthia M. Lummis,1954-09-10,Republican,SenLummis,senlummis
+B001261,0.543,John Barrasso,1952-07-21,Republican,SenJohnBarrasso,senjohnbarrasso
