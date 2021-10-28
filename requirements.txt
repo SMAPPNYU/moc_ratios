@@ -4,3 +4,5 @@ pandas
 scipy
 seaborn
 tqdm
+twarc
+twarc-csv
